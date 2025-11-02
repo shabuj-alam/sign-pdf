@@ -19,7 +19,6 @@ A modern, full-stack web application for digitally signing PDF documents. Built 
 - **React 19** - UI library
 - **Vite** - Build tool and dev server
 - **Tailwind CSS 4** - Styling framework
-- **Mona Sans** - Typography
 
 ### Backend
 - **Express.js 5** - Web server framework
@@ -58,7 +57,7 @@ sign-pdf/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/shabuj-alam/sign-pdf.git
 cd sign-pdf
 ```
 
